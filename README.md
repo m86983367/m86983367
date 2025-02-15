@@ -1,19 +1,16 @@
-# Hello! I'm Mohamed
+Hello, I'm Zack 👨💻
+A software developer specializing in building efficient technical solutions using Node.js and TypeScript.
 
-👋 I'm a software developer specialized in **Node.js** and **TypeScript**, with a strong background in **C++**. I enjoy building innovative applications and solving complex problems.
+What I Do:
+Design and develop scalable APIs using Node.js.
 
-## 🔧 Skills
+Write clean and maintainable code with TypeScript.
 
-- **Node.js**: Building powerful server applications.
-- **TypeScript**: Developing reliable and maintainable code.
-- **C++**: Experience in object-oriented programming and embedded systems.
-- **Databases**: Working with MongoDB and PostgreSQL.
-- **Tools**: Git, Docker, Webpack.
+Work efficiently with databases like MongoDB and PostgreSQL.
 
-## 🎯 Goals
+Why Work With Me?
+I believe programming is not just about writing code, but about solving real-world problems.
 
-I always strive to expand my skills and engage in new projects, and I love working in dynamic environments that encourage innovation.
+I enjoy turning complex ideas into practical applications.
 
----
-
-Thank you for visiting!
+I stay updated with the latest tech trends to deliver modern solutions.
